@@ -6,6 +6,8 @@ Fintech companies have the responsibility to implement robust anti money launder
 
 ### What types of payment fraud are there?
 There are multiple types of payment fraud:
+
+![alt text](https://github.com/AmanRiar7/SLackathon-Online-Payment-Fraud-Detection--Team-Divas/blob/main/types_of_payment_frauds.png)
  
 (https://seon.io/resources/building-a-stronger-payment-fraud-prevention-framework-for-your-business/)
 
