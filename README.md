@@ -24,7 +24,7 @@ In general, for fraud detection, machine learning algorithms are trained on hist
 
 We will use a two-step strategy to detect suspicious transactions:
 
-Step1: It is a fact that transaction data is unbalanced with fraudulent transactions forming a small percentage of the whole. Following the logic that these fraudulent transactions must belong to a loosely cohesive set defined by source, type, methodology etc., it is important to detect this set that defines fraudulent transactions in a set of data. Hence we will use clustering techniques to cluster the data into cohesive groups.
+Step1: It is a fact that transaction data is unbalanced with fraudulent transactions forming a small percentage of the whole. Following the logic that these fraudulent transactions must belong to a loosely cohesive set related in some manner like source,merchant, geography, time, type, methodology etc., it is important to detect this set that defines fraudulent transactions in a set of data. Hence we will use clustering techniques to cluster the data into cohesive groups.
 
 Step 2: Classification algorithms will then be used on the clustered dataset to classify the transactions as fraudulent or legitimate.
 
