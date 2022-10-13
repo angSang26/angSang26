@@ -12,7 +12,7 @@ There are multiple types of payment fraud:
 (https://seon.io/resources/building-a-stronger-payment-fraud-prevention-framework-for-your-business/)
 
 With increase in use of credit cards, credit card fraud has become most common with millions of people falling victim to credit card fraud every year. There were 389,845 cases of credit card fraud reported in 2021 in the U.S.  
-It is very crucial to identify fraudulent transactions so that credit card fraud can be avoided. Fraud detection is the collection of processes and techniques that identify potentially fraudulent activities. Fraud detection is very important to identify, monitor, detect and prevent fraud (act of deception to achieve personal or financial gain). 
+It is very crucial to identify fraudulent transactions so that credit card fraud can be curtailed. Fraud detection is the collection of processes and techniques that identify potentially fraudulent activities. Fraud detection is very important to identify, monitor, detect and prevent fraud. 
 
 ### How can technology help?
 
