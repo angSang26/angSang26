@@ -39,6 +39,9 @@ We will be using the dataset titled 'creditcard.csv' downloaded from (https://ww
 ### Architecture Diagram
 
 ![alt text](https://github.com/AmanRiar7/SLackathon-Online-Payment-Fraud-Detection--Team-Divas/blob/main/architecture_diagram.png)
-![watch video](https://github.com/AmanRiar7/SLackathon-Online-Payment-Fraud-Detection--Team-Divas/blob/main/model_presentation.mp4)
+
+
+
+https://user-images.githubusercontent.com/7577170/199832277-cd9b3e14-9c1b-464f-a86f-42c250ea9161.mp4
 
 
